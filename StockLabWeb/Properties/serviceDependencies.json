@@ -7,6 +7,10 @@
       "type": "signalr",
       "connectionId": "Azure:SignalR:ConnectionString",
       "dynamicId": null
+    },
+    "apis2": {
+      "ignored": "true",
+      "type": "apis.azure"
     }
   }
 }
